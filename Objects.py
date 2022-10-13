@@ -1,6 +1,6 @@
 # Lionel Lynch
 # Objects.py
-# Examples of classes and Object interacting 
+# Examples of Classes and Object interacting 
 
 # Example 1:
 class Students:
