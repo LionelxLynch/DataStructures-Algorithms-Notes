@@ -24,6 +24,9 @@ Notebook demonstrating linked list data structure and their implementation.
 Notebook demonstrating merge sort algorithm.
 # Merge_Sort.java: 
 Java code file implementing merge sort algorithm.
+# Quick Sort.java
+File demonstrating Quick Sort algorithm and its implementation.
+
 
 
 
