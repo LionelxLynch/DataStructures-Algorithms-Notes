@@ -1,4 +1,4 @@
-Notebook-Data-Structrures-and-Algorithms
+## Notebook-Data-Structrures-and-Algorithms
 
 This repository contains various Jupyter notebooks and Java code files that demonstrate the implementation of various data structures and algorithms. Here is a brief description of the files included.
 
