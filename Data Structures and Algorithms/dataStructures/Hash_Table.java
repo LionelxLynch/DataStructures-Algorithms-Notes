@@ -1,4 +1,4 @@
-// Lionel Lynch (Alex Lee Tut)
+package com.lioneltlynch.algorithms.dataStructures// Lionel Lynch (Alex Lee Tut)
 import java.util.HashMap;
 
 public class Hash_Table{

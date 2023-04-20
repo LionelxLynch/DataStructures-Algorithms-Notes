@@ -24,7 +24,7 @@ and outline use cases.
           the lowIndex parameter to LP + 1 and the highIndex parameter to highIndex.
         - Include a base Case to terminate loop when we get to an array with one item inside.*/
 
-package com.lioneltlynch.algorithms;
+package com.lioneltlynch.algorithms.algorithms;
 import java.util.Random;
 
 public class QuickSort {
