@@ -1,21 +1,24 @@
 package com.lioneltlynch.algorithms.algorithms;
 
 public class BinarySearch {
-    public int binarySearch(int[] arr, int key) {
-        int low = 0;
-        int high = arr.length - 1;
+    public static int binarySearch(int[] arr, int key) {
+    int low = 0;
+    int high = arr.length - 1;
+        
+    while (low <= high) {
         int mid = (low + high) / 2;
-
-
         if (arr[mid] == key) {
-            return arr[mid];
-        } else if (arr[mid] < key) {
-            high = mid - 1;
-        } else {
+            return mid;
+        } 
+        else if (arr[mid] < key) {
             low = mid + 1;
+        } 
+        else {
+            high = mid - 1;
         }
-
-        // Sentinel Value
-        return -1;
     }
+    // The key is not in the array
+    return -1;
+}
+
 }
