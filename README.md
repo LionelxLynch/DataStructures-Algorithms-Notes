@@ -1,5 +1,9 @@
 # Data Structures and Algorithms Notes
 
+<div align="center">
+  <img src="Images/DataStructures&Algorithms.png" alt="Screenshot 1" width="480" />
+</div>
+
 This repository contains a collection of concise notes on various data structures and algorithms implemented in Java. The primary purpose of this repository is to serve as a resource for code inspections and to aid in understanding and implementing these fundamental concepts efficiently.
 
 ## Contents
